@@ -24,7 +24,7 @@ int main() {
 //member function에 what이라는 method
 //what: 어떤 오류가 났는지 문자열로 반환해주는 method
 
-//at만 catch가 호출되는 >??/?
+
 
 class filenotfoundexception :public exception {
 	//모든 예외처리 class는 상속 받아야함
