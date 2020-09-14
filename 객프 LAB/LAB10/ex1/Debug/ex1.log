@@ -1,0 +1,6 @@
+﻿  ex1.cpp
+C:\Users\JOSUEYEON\source\repos\LAB10\ex1\ex1.cpp(27,14): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JOSUEYEON\source\repos\LAB10\ex1\ex1.cpp(23): message : 클래스 템플릿 멤버 함수 'void Point<int>::print(void)'을(를) 컴파일하는 중입니다.
+C:\Users\JOSUEYEON\source\repos\LAB10\ex1\ex1.cpp(35): message : 컴파일되는 함수 템플릿 인스턴스화 'void Point<int>::print(void)'에 대한 참조를 확인하세요.
+C:\Users\JOSUEYEON\source\repos\LAB10\ex1\ex1.cpp(33): message : 컴파일되는 클래스 템플릿 인스턴스화 'Point<int>'에 대한 참조를 확인하세요.
+  ex1.vcxproj -> C:\Users\JOSUEYEON\source\repos\LAB10\Debug\ex1.exe

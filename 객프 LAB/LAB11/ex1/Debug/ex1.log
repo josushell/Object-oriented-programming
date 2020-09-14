@@ -1,0 +1,5 @@
+﻿  ex1.cpp
+C:\Users\JOSUEYEON\source\repos\LAB11\ex1\ex1.cpp(16,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\JOSUEYEON\source\repos\LAB11\ex1\ex1.cpp(36): message : 컴파일되는 함수 템플릿 인스턴스화 'void sort<int>(std::vector<int,std::allocator<int>> &)'에 대한 참조를 확인하세요.
+C:\Users\JOSUEYEON\source\repos\LAB11\ex1\ex1.cpp(17,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ex1.vcxproj -> C:\Users\JOSUEYEON\source\repos\LAB11\Debug\ex1.exe
